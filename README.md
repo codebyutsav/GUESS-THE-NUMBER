@@ -55,12 +55,6 @@ You have guessed the number 63 in 3 guesses
 
 ---
 
-## 📁 File
-
-- `guess.py` → Main game script
-
----
-
 ## 🙌 Contribution
 
 This is a beginner-friendly project. Feel free to **fork** and improve or add new features like difficulty levels, scoreboards, or GUI!
